@@ -20,10 +20,21 @@ displayAge(25);
 
 //callback function
 function calculateAge(year, callback) {
-    const age = callback(year);
+setTimeout(() => {
+    
+      const age = callback(year);
     console.log(`You are ${age} years old.`);
+}, 5000);
+    
+    console.log("This message is displayed immediately.");
+  
 }
 
 calculateAge(2003, function(yearOfBirth) {
     return 2025 - yearOfBirth;
 });
+
+
+setTimeout(()=>{
+    console.log("This message is displayed after 10 seconds.");
+},10000)
