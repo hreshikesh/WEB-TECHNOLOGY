@@ -33,6 +33,6 @@ document.querySelector(".paragraph").innerHTML="This paragraph is modified using
 //selects all matching element
 console.log("this is a query selector all for h2 tags "+document.querySelectorAll("h2"));   
 document.querySelectorAll("h2").forEach((element) => {
-    element.innerHTML=`This is modified h2 tag number  using query selector all`;
+    element.innerHTML=`JS is a synchronized,single threaded language-modified by query selctorall`;
 }
 );
