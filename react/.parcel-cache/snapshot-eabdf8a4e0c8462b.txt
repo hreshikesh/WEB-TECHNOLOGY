@@ -1,18 +1,4 @@
-3606
-56C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver134104250124836375 1
-67C:\Users\ailhr\Local-HTML\HTML\react\node_modules\scheduler\LICENSE134104258458305118 0
-59C:\Users\ailhr\Local-HTML\HTML\react\node_modules\picomatch134104250121860052 1
-72C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver\functions\lt.js134104250123127595 0
-97C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\css-rebeccapurple.js134104250131606636 0
-73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\_\_type_of134104250131877252 1
-68C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\diagnostic134104250165991541 1
-75C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\cjs\_jsx.cjs134104250126685791 0
-81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\regions\CZ.js134104250132919790 0
-43C:\Users\ailhr\Local-HTML\HTML\react\App.js134103540806706948 0
-70C:\Users\ailhr\Local-HTML\HTML\react\node_modules\react\jsx-runtime.js134104258056167686 0
-73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\dotenv-expand\config.js134104250121454148 0
-69C:\Users\ailhr\Local-HTML\HTML\react\node_modules\fill-range\index.js134104250120186144 0
-56C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@lezer134104250113927935 1
+3610
 60C:\Users\ailhr\Local-HTML\HTML\react\node_modules\is-extglob134104250120657308 1
 104C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\core\test\fixtures\common-targets\package.json134104250165991541 0
 77C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\agents.js134104250122706815 0
@@ -31,9 +17,27 @@
 104C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src134104250163405715 1
 83C:\Users\ailhr\Local-HTML\HTML\react\node_modules\node-addon-api\node_addon_api.gyp134104250120306341 0
 80C:\Users\ailhr\Local-HTML\HTML\react\node_modules\commander\package-support.json134104250150890838 0
-49C:\Users\ailhr\Local-HTML\HTML\react\package.json134104258463755101 0
+49C:\Users\ailhr\Local-HTML\HTML\react\package.json134105247568514721 0
 98C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\css-module-scripts.js134104250131296026 0
 73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\browserslist\index.d.ts134104250123007368 0
+56C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver134104250124836375 1
+67C:\Users\ailhr\Local-HTML\HTML\react\node_modules\scheduler\LICENSE134104258458305118 0
+59C:\Users\ailhr\Local-HTML\HTML\react\node_modules\picomatch134104250121860052 1
+70C:\Users\ailhr\Local-HTML\HTML\react\node_modules\react\jsx-runtime.js134104258056167686 0
+73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\dotenv-expand\config.js134104250121454148 0
+69C:\Users\ailhr\Local-HTML\HTML\react\node_modules\fill-range\index.js134104250120186144 0
+56C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@lezer134104250113927935 1
+72C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver\functions\lt.js134104250123127595 0
+97C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\css-rebeccapurple.js134104250131606636 0
+73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\_\_type_of134104250131877252 1
+68C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\diagnostic134104250165991541 1
+75C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\cjs\_jsx.cjs134104250126685791 0
+81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\regions\CZ.js134104250132919790 0
+43C:\Users\ailhr\Local-HTML\HTML\react\App.js134105245818448228 0
+90C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\reporter-cli\src\bundleReport.js134104250155105834 0
+90C:\Users\ailhr\Local-HTML\HTML\react\node_modules\type-fest\source\fixed-length-array.d.ts134104250122616576 0
+74C:\Users\ailhr\Local-HTML\HTML\react\node_modules\react-dom\static.edge.js134104258463485207 0
+41C:\Users\ailhr\Local-HTML\HTML\react\dist134105246955056035 1
 92C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\_\_object_spread\package.json134104250131381157 0
 63C:\Users\ailhr\Local-HTML\HTML\react\node_modules\node-releases134104250121078198 1
 63C:\Users\ailhr\Local-HTML\HTML\react\node_modules\color-convert134104250121128192 1
@@ -56,7 +60,7 @@
 78C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver\functions\rcompare.js134104250123919286 0
 85C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\esm\_overload_yield.js134104250129261375 0
 94C:\Users\ailhr\Local-HTML\HTML\react\node_modules\lmdb\node_modules\node-addon-api\common.gypi134104250161376176 0
-47C:\Users\ailhr\Local-HTML\HTML\react\index.html134104264319393591 0
+47C:\Users\ailhr\Local-HTML\HTML\react\index.html134105248348902069 0
 87C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\_\_await_async_generator134104250130208787 1
 68C:\Users\ailhr\Local-HTML\HTML\react\node_modules\.package-lock.json134104258464822948 0
 63C:\Users\ailhr\Local-HTML\HTML\react\node_modules\react-dom\cjs134104258463186591 1
@@ -158,8 +162,8 @@
 68C:\Users\ailhr\Local-HTML\HTML\react\node_modules\chrome-trace-event134104250121098206 1
 97C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\core\src\requests\WriteBundleRequest.js134104250165816118 0
 126C:\Users\ailhr\Local-HTML\HTML\react\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1134104250200081661 0
-98C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\unhandledrejection.js134104250144556726 0
 84C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\src\_create_super.mjs134104250132709451 0
+98C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\unhandledrejection.js134104250144556726 0
 65C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver\index.js134104250122967316 0
 89C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\classlist.js134104250128925674 0
 92C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\core\test\fixtures\invalid-engines134104250166196982 1
@@ -396,8 +400,8 @@
 73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\workers\src\web134104250130654681 1
 86C:\Users\ailhr\Local-HTML\HTML\react\node_modules\utility-types\dist\mapped-types.d.ts134104250123027371 0
 76C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\types-internal\src134104250129817779 1
-81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\regions\JM.js134104250136618917 0
 73C:\Users\ailhr\Local-HTML\HTML\react\node_modules\semver\classes\range.js134104250123889293 0
+81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\regions\JM.js134104250136618917 0
 87C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\utils\src\prettyDiagnostic.js134104250160248617 0
 67C:\Users\ailhr\Local-HTML\HTML\react\node_modules\lmdb\src\misc.cpp134104250128985875 0
 84C:\Users\ailhr\Local-HTML\HTML\react\node_modules\utility-types\dist\mapped-types.js134104250121158364 0
@@ -525,9 +529,6 @@
 75C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\optimizer-swc\src134104250152865442 1
 67C:\Users\ailhr\Local-HTML\HTML\react\node_modules\has-flag\index.js134104250120376545 0
 78C:\Users\ailhr\Local-HTML\HTML\react\node_modules\type-fest\source\except.d.ts134104250122506365 0
-90C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\reporter-cli\src\bundleReport.js134104250155105834 0
-90C:\Users\ailhr\Local-HTML\HTML\react\node_modules\type-fest\source\fixed-length-array.d.ts134104250122616576 0
-74C:\Users\ailhr\Local-HTML\HTML\react\node_modules\react-dom\static.edge.js134104258463485207 0
 97C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\core\test\fixtures\config-node-pipeline134104250161837169 1
 88C:\Users\ailhr\Local-HTML\HTML\react\node_modules\type-fest\source\iterable-element.d.ts134104250122897188 0
 84C:\Users\ailhr\Local-HTML\HTML\react\node_modules\type-fest\source\set-optional.d.ts134104250123774115 0
@@ -1683,6 +1684,7 @@
 69C:\Users\ailhr\Local-HTML\HTML\react\node_modules\detect-libc\LICENSE134104250120817537 0
 91C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\features\wbr-element.js134104250145563996 0
 99C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs134104250132247898 0
+59C:\Users\ailhr\Local-HTML\HTML\react\dist\react.cb65f72e.js134105246954948117 0
 74C:\Users\ailhr\Local-HTML\HTML\react\node_modules\detect-libc\package.json134104250120156069 0
 98C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@swc\helpers\src\_class_private_field_update.mjs134104250132548622 0
 81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\caniuse-lite\data\regions\FO.js134104250134358159 0
@@ -3237,6 +3239,7 @@
 100C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js134104250145142984 0
 100C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js134104250145744377 0
 102C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js134104250145017633 0
+52C:\Users\ailhr\Local-HTML\HTML\react\dist\index.html134105246954902885 0
 103C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js134104250145127934 0
 107C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js134104250145634073 0
 103C:\Users\ailhr\Local-HTML\HTML\react\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js134104250145724395 0
@@ -3605,3 +3608,4 @@
 65C:\Users\ailhr\Local-HTML\HTML\react\node_modules\.bin\parcel.ps1134104250200051530 0
 81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\.bin\update-browserslist-db.cmd134104250200051530 0
 81C:\Users\ailhr\Local-HTML\HTML\react\node_modules\.bin\update-browserslist-db.ps1134104250200051530 0
+63C:\Users\ailhr\Local-HTML\HTML\react\dist\react.cb65f72e.js.map134105246955028213 0
