@@ -19,7 +19,7 @@
   "type": "commonjs",
 
   "scripts": {
-    "test": "jira"
+     "start": "parcel index.html"
   },
   "dependencies": {
     "parcel": "^2.16.3",
