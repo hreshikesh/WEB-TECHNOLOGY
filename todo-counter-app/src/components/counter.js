@@ -1,4 +1,5 @@
 import { useState } from "react";
+import '../App.css';
 
 const Counter=()=>{
     const[count,setCounter]=useState(0);
@@ -21,10 +22,12 @@ const Counter=()=>{
     return(
     <div>
         <h1>Counter App</h1>
-        <button type="button" onClick={handleIncrement}>Increment</button>
-        <button type="button" onClick={handleDecrement}>Decrement</button>
-        <button type="button" onClick={handleToggle}>Toggle</button>
-        {toggle && <h4>Count={count}</h4>}
+        <div className="buttonContainer">
+        <button type="button" onClick={handleIncrement} className="incrementButton">Increment</button>
+        <button type="button" onClick={handleDecrement} className="decrementalButton">Decrement</button>
+        <button type="button" onClick={handleToggle} className="toggleButton">Toggle</button>
+        </div>
+        {toggle && <h4 className="countStyle">Count={count}</h4>}
     </div>
     )
 }
