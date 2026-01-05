@@ -7,7 +7,7 @@ function ToDoForm({ todo, setTodo }) {
     function handleSubmit(e) {
         e.preventDefault();
         setTodo([...todo, e.target.todo.value])
-         console.log(todo);
+        console.log(todo);
     }
 
     return (
@@ -20,23 +20,36 @@ function ToDoForm({ todo, setTodo }) {
     )
 }
 
+
 const Todo = () => {
     const [todo, setTodo] = useState([]);
+
+    function handleDelete(i) {
+        const updatedTodo =todo.filter((task,index)=>index!==i);
+        setTodo(updatedTodo);
+    }
+
+
     return (
         <div>
             <h1>Todo list</h1>
             <h3>Add Your Task</h3>
             <ToDoForm todo={todo} setTodo={setTodo} />
-           
-            <ul>
-                {todo.length>0 &&
-                 todo.map((task, index) => (
-                    <li key={index}>{task}</li>
-                ))}
+
+            <ul className="listContainer">
+                {todo.length > 0 &&
+                    todo.map((task, index) => (
+                        <li key={index} className="taskList">
+                            {task}
+                            <button type="button" className="deleteButton" onClick={() => handleDelete(index)}>
+                                delete
+                            </button>
+                        </li>
+                    ))
+                }
             </ul>
         </div>
     )
-
 }
 
 export default Todo;

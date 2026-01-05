@@ -19,6 +19,10 @@ const Counter=()=>{
         setToggle(!toggle)
     }
 
+    function handleReset(){
+        setCounter(0)
+    }
+
     return(
     <div>
         <h1>Counter App</h1>
@@ -26,6 +30,7 @@ const Counter=()=>{
         <button type="button" onClick={handleIncrement} className="incrementButton">Increment</button>
         <button type="button" onClick={handleDecrement} className="decrementalButton">Decrement</button>
         <button type="button" onClick={handleToggle} className="toggleButton">Toggle</button>
+        <button type="button" onClick={handleReset} className="resetButton">Reset</button>
         </div>
         {toggle && <h4 className="countStyle">Count={count}</h4>}
     </div>
